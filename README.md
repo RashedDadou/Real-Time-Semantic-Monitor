@@ -259,13 +259,14 @@ Monitoring | ✅ Built-in| Auto-reports
 ---
 
 ## 📊 **Competitive Analysis**
-| This System | Prometheus | DataDog
----------------------|-------------|------------|--------
-Response Time | 2.5ms | 50ms | 100ms
-Intelligence | Auto-Heal| Basic | Advanced
-Memory Usage | 4KB | 50MB | 500MB
-Cost | Free | $$$ | $$$$$
-Deployment Complexity| Simple | Complex | Complex
+
+| Feature | This System | Prometheus | DataDog |
+|---------|-------------|------------|---------|
+| **Response Time** | **2.5ms** | 50ms | 100ms |
+| **Intelligence** | **Auto-Heal** | Basic | Advanced |
+| **Memory Usage** | **4KB** | 50MB | 500MB |
+| **Cost** | **Free** | $$$ | $$$$$ |
+| **Deployment Complexity** | **Simple** | Complex | Complex |
 
 ---
 
