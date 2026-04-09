@@ -328,22 +328,26 @@ result = monitor.monitor('live_prediction',
 print(f"Hit.Rate: {result.hit_rate} | Turbo: {result.turbo['status']}")
 # Hit.Rate: 0.95 | Turbo: ACTIVATED x32
 ```
----python
-C:\Users\Rashed_Dadou\Desktop\SuperVisorSmartReporter\Real_Time_Semantic_Monitor>python RealTime_Semantic_Monitor.py
-✅ ALL ML libraries loaded
-✅ Torch advanced modules loaded
-🚀 === RealTimeSemanticMonitor - Complete Test Suite ===
+---
 
-1️⃣ === Core Initialization ===
+# 🚀 RealTimeSemanticMonitor - Complete Test Results
+
+✅ **ALL ML libraries loaded**  
+✅ **Torch advanced modules loaded**
+
+## 🎬 **RealTimeSemanticMonitor - Complete Test Suite**
+
+### 1️⃣ **Core Initialization**
+
 🚀 Initializing RealTimeSemanticMonitor...
-✅ 1. Core structures OK
-✅ 2. Turbo engine OK
-✅ 3. Device: cuda
-✅ Database ready: ai_monitor.db
-✅ 4. Database OK
-✅ 5. Visualization ready
-🎉 RealTimeSemanticMonitor جاهز 100%! 🚀
-📊 DB: ai_monitor.db | Functions: 0
+✅ *1. Core structures OK*
+✅ *2. Turbo engine OK*
+✅ *3. Device: cuda*
+✅ *Database ready: ai_monitor.db*
+✅ *4. Database OK*
+✅ *5. Visualization ready*
+🎉 *RealTimeSemanticMonitor جاهز 100%! 🚀*
+📊 *DB: ai_monitor.db | Functions: 0*
 🚀 استخدم: register_functions() → monitor() → setup_visualization() → dashboard
 🔍 Debug: HAS_PLOT=True
 🔍 STEP 1: ENTERED setup_visualization()
@@ -439,7 +443,6 @@ Hit 45%: 300ms → 38ms (x8.0)
 🎉 === ✅ TEST SUITE COMPLETE 100% === 🚀
 ⏱️  Total uptime: 0.7 minutes
 
-C:\Users\Rashed_Dadou\Desktop\SuperVisorSmartReporter\Real_Time_Semantic_Monitor>
 ---
 ---
 
