@@ -354,16 +354,18 @@ print(f"Hit.Rate: {result.hit_rate} | Turbo: {result.turbo['status']}")
 
 ### 1️⃣ **Core Initialization**
 
+## 🚀 **RealTimeSemanticMonitor Initialization**
+
 🚀 Initializing RealTimeSemanticMonitor...
-✅ *1. Core structures OK*
-✅ *2. Turbo engine OK*
-✅ *3. Device: cuda*
-✅ *Database ready: ai_monitor.db*
-✅ *4. Database OK*
-✅ *5. Visualization ready*
-🎉 *RealTimeSemanticMonitor جاهز 100%! 🚀*
-📊 *DB: ai_monitor.db | Functions: 0*
-🚀 استخدم: register_functions() → monitor() → setup_visualization() → dashboard
+✅ 1. Core structures OK
+✅ 2. Turbo engine OK
+✅ 3. Device: cuda
+✅ Database ready: ai_monitor.db
+✅ 4. Database OK
+✅ 5. Visualization ready
+🎉 RealTimeSemanticMonitor جاهز 100%! 🚀
+📊 DB: ai_monitor.db | Functions: 0
+
 🔍 Debug: HAS_PLOT=True
 🔍 STEP 1: ENTERED setup_visualization()
 🔍 STEP 1.5: HAS_PLOT=True
