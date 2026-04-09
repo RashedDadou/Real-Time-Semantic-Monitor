@@ -357,29 +357,51 @@ print(f"Hit.Rate: {result.hit_rate} | Turbo: {result.turbo['status']}")
 ## 🚀 **RealTimeSemanticMonitor Initialization**
 
 🚀 Initializing RealTimeSemanticMonitor...
+
 ✅ 1. Core structures OK
+
 ✅ 2. Turbo engine OK
+
 ✅ 3. Device: cuda
+
 ✅ Database ready: ai_monitor.db
+
 ✅ 4. Database OK
+
 ✅ 5. Visualization ready
+
 🎉 RealTimeSemanticMonitor جاهز 100%! 🚀
+
 📊 DB: ai_monitor.db | Functions: 0
 
 🔍 Debug: HAS_PLOT=True
+
 🔍 STEP 1: ENTERED setup_visualization()
+
 🔍 STEP 1.5: HAS_PLOT=True
+
 🔍 STEP 2: import matplotlib
+
 🔍 STEP 3: Backend fix
+
 🔍 STEP 3.5: Setup OK
+
 🔍 STEP 4: plt.subplots()
+
 ✅ STEP 4: Subplots OK
+
 🔍 STEP 5: Styling dashboard
+
 C:\Users\Rashed_Dadou\Desktop\SuperVisorSmartReporter\Real_Time_Semantic_Monitor\RealTime_Semantic_Monitor.py:710: UserWarning: Glyph 128640 (\N{ROCKET}) missing from font(s) Arial.
+
   plt.tight_layout()
+  
 ✅ 📊 Visualization setup complete
+
 🔍 viz_ok result: True
+
 ✅ Dashboard ready!
+
 ⚠️  No data for dashboard
 
 3️⃣ === Live Dashboard Demo ===
